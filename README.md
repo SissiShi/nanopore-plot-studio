@@ -33,7 +33,13 @@ Run the GUI with:
 python nanopore_plot_studio.py
 ```
 
-Or launch it on Windows with:
+On macOS, you may need:
+
+```bash
+python3 nanopore_plot_studio.py
+```
+
+On Windows, you can also use::
 
 ```bash
 Launch_nanopore_plot_studio.bat
