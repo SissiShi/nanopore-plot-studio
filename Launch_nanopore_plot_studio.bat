@@ -2,7 +2,7 @@
 setlocal
 
 set "PYTHON_EXE=C:\Users\Odile\AppData\Local\Programs\Python\Python313\python.exe"
-set "SCRIPT_PATH=%~dp0nanopore_plot_gui_v11.py"
+set "SCRIPT_PATH=%~dp0nanopore_plot__studio_v11.py"
 
 if not exist "%PYTHON_EXE%" (
     echo Python not found:
