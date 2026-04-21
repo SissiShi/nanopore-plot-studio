@@ -1,2 +1,0 @@
-Install these once in terminal:
-py -3.13 -m pip install pandas numpy matplotlib
