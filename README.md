@@ -30,7 +30,7 @@ python -m pip install -r requirements.txt
 Run the GUI with:
 
 ```bash
-py -3.13 nanopore_plot_studio.py
+python nanopore_plot_studio.py
 ```
 
 Or launch it on Windows with:
