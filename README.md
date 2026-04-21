@@ -22,7 +22,7 @@ A tool for Sisi's nanopore event plotting and analysis
 Install the required packages:
 
 ```bash
-py -3.13 -m pip install pandas numpy matplotlib
+python -m pip install -r requirements.txt
 ```
 
 ## Run
@@ -30,13 +30,13 @@ py -3.13 -m pip install pandas numpy matplotlib
 Run the GUI with:
 
 ```bash
-py -3.13 nanopore_plot_gui.py
+py -3.13 nanopore_plot_studio.py
 ```
 
 Or launch it on Windows with:
 
 ```bash
-Launch_nanopore_plot_gui.bat
+Launch_nanopore_plot_studio.bat
 ```
 
 ## Notes
